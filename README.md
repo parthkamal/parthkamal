@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Final year undergraduate from Indian Institute of Technology Kanpur
+Btech - IIT Kanpur
 
 
 ## 🌐 Socials:
