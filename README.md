@@ -1,5 +1,8 @@
 # 💫 About Me:
-Btech - IIT Kanpur
+1. I am Parth Kamal, recent graduate from Indian Institute Of Technology Kanpur.
+2. I am a technology enthusiast , with a deep interest in technology and software development.
+3. I specialize in full stack development, namely in the mern stack.
+4. Reach out to me at kamalparth40@gmail.com
 
 
 ## 🌐 Socials:
